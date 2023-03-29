@@ -1,3 +1,3 @@
 # SQLAlchemy-Basics
 
-This is the basic of SQL Alchemy
+This repository is aimed to have the basic understanding of SQL Alchemy
